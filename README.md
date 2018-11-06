@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 Hello!
-This is my forst edit.
+This is my first edit.
